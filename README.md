@@ -1,5 +1,1 @@
-# Golang Engineer at J:Mind:Systems
-
-Test
-
-## test 2
+# :man_technologist: Software Engineer from Kyiv
